@@ -13,3 +13,5 @@ Features
 Page Loader: Displays a loading screen while the page is loading and hides it once the page is fully loaded.
 Owl Carousel: A responsive carousel that displays items in a loop with different numbers of items shown based on the screen width.
 Form Submission: Collects user input from a form and stores it in the browser's local storage, displaying an alert on successful submission.
+
+Live Deployment: https://main--aafiyahermanos.netlify.app/
